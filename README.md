@@ -106,14 +106,3 @@ The dashboard supports **dynamic filtering by client, sector, region, and date**
 ✅ Fully interactive **dark-themed report** with smooth navigation  
 ✅ Great example of **end-to-end sales funnel analysis** using Power BI  
 
----
-
-## 👨‍💻 About Me  
-Hi, I'm **Shareef Ali**, a dedicated **Data Analyst** passionate about transforming business problems into visual insights through **Power BI, SQL, and Python.**
-
-📬 **Let’s connect!**  
-🔗 **[GitHub Portfolio](https://github.com/shareef99997)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/shareef-ali/)**  
-🔗 **[Personal Website](https://www.shareefdev.com)**
-
-📢 **If you found this helpful, please leave a ⭐ on GitHub!**
